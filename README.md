@@ -27,9 +27,7 @@ To run the examples, execute the corresponding Python scripts. Make sure the dat
 ### For the Iris dataset using `scikit-learn`:
 
 1. Ensure the Iris dataset is in the `data/` directory.
-
 2. Run the script:
-
 ```bash
 python iris_knn_sklearn.py
 
