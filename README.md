@@ -19,32 +19,22 @@ This repository demonstrates the implementation of the K-Nearest Neighbors (KNN)
 - [License](#license)
 - [Languages Used](#languages-used)
 
-## Project Structure
-
-knn-implementation-datasets/
-│
-├── data/
-│ ├── bmi.csv
-│ └── iris.csv
-│
-├── images/
-│ ├── bmi_confusion_matrix.png
-│ └── iris_confusion_matrix.png
-│
-├── knn_from_scratch.py
-├── iris_knn_sklearn.py
-├── bmi_knn_sklearn.py
-├── README.md
-└── requirements.txt
 
 ## Usage
 
 To run the examples, execute the corresponding Python scripts. Make sure the dataset files are in the correct directories.
 
-For the Iris dataset using `scikit-learn`:
+### For the Iris dataset using `scikit-learn`:
+
+1. Ensure the Iris dataset is in the `data/` directory.
+
+2. Run the script:
 
 ```bash
 python iris_knn_sklearn.py
+
+
+
 
 
 
