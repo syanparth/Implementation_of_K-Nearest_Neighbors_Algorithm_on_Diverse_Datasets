@@ -3,8 +3,6 @@
 This repository demonstrates the implementation of the K-Nearest Neighbors (KNN) algorithm on two different datasets: the Iris dataset and a BMI classification dataset. It includes both the use of the `scikit-learn` library and a custom implementation of the KNN algorithm from scratch.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dataset Descriptions](#dataset-descriptions)
@@ -19,16 +17,13 @@ This repository demonstrates the implementation of the K-Nearest Neighbors (KNN)
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [License](#license)
+- [Languages Used](#languages-used)
 
-## Introduction
+## Usage
 
-The K-Nearest Neighbors algorithm is a simple, yet effective, supervised learning algorithm used for classification and regression. This project showcases its application on two datasets using both a popular machine learning library, `scikit-learn`, and a custom implementation to understand its mechanics better.
+To run the examples, execute the corresponding Python scripts. Make sure the dataset files are in the correct directories.
 
-## Installation
-
-To get started with this project, clone the repository and install the required packages:
+For the Iris dataset using `scikit-learn`:
 
 ```bash
-git clone https://github.com/your-username/knn-implementation-datasets.git
-cd knn-implementation-datasets
-pip install -r requirements.txt
+python iris_knn_sklearn.py
