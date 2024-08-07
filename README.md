@@ -19,11 +19,4 @@ This repository demonstrates the implementation of the K-Nearest Neighbors (KNN)
 - [License](#license)
 - [Languages Used](#languages-used)
 
-## Usage
 
-To run the examples, execute the corresponding Python scripts. Make sure the dataset files are in the correct directories.
-
-For the Iris dataset using `scikit-learn`:
-
-```bash
-python iris_knn_sklearn.py
