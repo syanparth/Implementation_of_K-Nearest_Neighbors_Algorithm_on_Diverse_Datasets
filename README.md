@@ -1,6 +1,6 @@
 # Implementation of K-Nearest Neighbors Algorithm on Diverse Datasets
 
-This repository demonstrates the implementation of the K-Nearest Neighbors (KNN) algorithm on two different datasets: the Iris dataset and a BMI classification dataset. It includes both the use of the `scikit-learn` library and a custom implementation of the KNN algorithm from scratch.
+This repository demonstrates the implementation of the K-Nearest Neighbors (KNN) algorithm on two different datasets: the Iris dataset and a BMI classification dataset. It includes both the use of  `scikit-learn` library and a custom implementation of the KNN algorithm from scratch.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
